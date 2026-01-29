@@ -1,16 +1,45 @@
-## Hi there 👋
+# Mohamed Hedi Dridi
 
-<!--
-**mhdridi07/mhdridi07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering student (Télécom Physique Strasbourg) specialized in **Quantum Science & Technologies** and Master’s student in **Quantum technologies - European program (QTEP)** 
+**QMat** Student – Quantum Science and Nanomaterials (Excellence Fellowship)
+**DigiQ** Student – EFEQT ( European Master Certificate in Quantum Science and Technology )
 
-Here are some ideas to get you started:
+Interested in **quantum hardware**, **fault-tolerant qubits / QEC**, and **scientific computing**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+- RF / EM simulations for spin-wave excitation (COMSOL, MuMax3, MEEP, openEMS)
+- Python scientific computing (NumPy, SciPy, Matplotlib)
+- Quantum ML exploration (quantum-inspired / hybrid models)
+
+## Featured projects
+- **[Project 1 — RF magnetic field modeling for CPW antennas](#)** (COMSOL + validation in Python FDTD)
+- **[Project 2 — Quantum deep learning for handwriting recognition](#)** (RIMES, hybrid/quantum-inspired pipeline)
+- **[Project 3 — Harmonic Hall resistance analysis](#)** (data analysis scripts + figures)
+
+## Tech stack
+Python, C/C++, Julia, MATLAB • NumPy/SciPy/Pandas • PyTorch/TensorFlow • COMSOL, MuMax3, MEEP, openEMS • Qiskit, Cirq, QuTiP
+
+## Contact
+- Email: mhdridi07@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mohamed-hedi-dridi-mhdridi07/
+# Mohamed Hedi Dridi
+
+Engineering student (Télécom Physique Strasbourg) specialized in **Quantum Science & Technologies** and Master’s student in **QTEP (QMat Fellow)**.  
+Interested in **quantum hardware**, **fault-tolerant qubits / QEC**, and **scientific computing**.
+
+## What I do
+- RF / EM simulations for spin-wave excitation (COMSOL, MuMax3, MEEP, openEMS)
+- Python scientific computing (NumPy, SciPy, Matplotlib)
+- Quantum ML exploration (quantum-inspired / hybrid models)
+
+## Featured projects
+- **[Project 1 — RF magnetic field modeling for CPW antennas](#)** (COMSOL + validation in Python FDTD)
+- **[Project 2 — Quantum deep learning for handwriting recognition](#)** (RIMES, hybrid/quantum-inspired pipeline)
+- **[Project 3 — Harmonic Hall resistance analysis](#)** (data analysis scripts + figures)
+
+## Tech stack
+Python, C/C++, Julia, MATLAB • NumPy/SciPy/Pandas • PyTorch/TensorFlow • COMSOL, MuMax3, MEEP, openEMS • Qiskit, Cirq, QuTiP
+
+## Contact
+- Email: mhdridi07@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mohamed-hedi-dridi-mhdridi07/
