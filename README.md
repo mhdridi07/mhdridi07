@@ -1,7 +1,9 @@
 # Mohamed Hedi Dridi
 
 Engineering student (Télécom Physique Strasbourg) specialized in **Quantum Science & Technologies** and Master’s student in **Quantum technologies - European program (QTEP)** 
+
 **QMat** Student – Quantum Science and Nanomaterials (Excellence Fellowship)
+
 **DigiQ** Student – EFEQT ( European Master Certificate in Quantum Science and Technology )
 
 Interested in **quantum hardware**, **fault-tolerant qubits / QEC**, and **scientific computing**.
@@ -22,4 +24,3 @@ Python, C/C++, Julia, MATLAB • NumPy/SciPy/Pandas • PyTorch/TensorFlow • C
 ## Contact
 - Email: mhdridi07@gmail.com
 - LinkedIn: https://www.linkedin.com/in/mohamed-hedi-dridi-mhdridi07/
-# Mohamed Hedi Dridi
